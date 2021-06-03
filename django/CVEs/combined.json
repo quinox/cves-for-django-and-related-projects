@@ -1610,5 +1610,45 @@
         "3.1.6"
       ]
     ]
+  },
+  {
+    "date": "June 2, 2021",
+    "cve": "CVE-2021-33203",
+    "summary": "Potential directory traversal via admindocs",
+    "link": "https://www.djangoproject.com/weblog/2021/jun/02/security-releases/",
+    "versions": [
+      [
+        "2.2",
+        "2.2.24"
+      ],
+      [
+        "3.1",
+        "3.1.12"
+      ],
+      [
+        "3.2",
+        "3.2.4"
+      ]
+    ]
+  },
+  {
+    "date": "June 2, 2021",
+    "cve": "CVE-2021-33571",
+    "summary": "Possible indeterminate SSRF, RFI, and LFI attacks since validators accepted leading zeros in IPv4 addresses",
+    "link": "https://www.djangoproject.com/weblog/2021/jun/02/security-releases/",
+    "versions": [
+      [
+        "2.2",
+        "2.2.24"
+      ],
+      [
+        "3.1",
+        "3.1.12"
+      ],
+      [
+        "3.2",
+        "3.2.4"
+      ]
+    ]
   }
 ]
